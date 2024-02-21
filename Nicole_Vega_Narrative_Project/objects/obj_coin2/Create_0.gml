@@ -1,8 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-visible = true;
-taken = false
+taken = false;
+//room_persistent = true;
 item_name = "coin2"
-item_name = "lastheart"
+

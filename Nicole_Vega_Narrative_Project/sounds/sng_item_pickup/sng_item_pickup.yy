@@ -13,7 +13,7 @@
   "duration": 2.448,
   "parent": {
     "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "path": "folders/Rooms/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,

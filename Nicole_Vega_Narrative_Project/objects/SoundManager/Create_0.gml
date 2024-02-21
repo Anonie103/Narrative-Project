@@ -1,1 +1,1 @@
-audio_play_sound(sng_Background_music,4,true);
+audio_play_sound(sng_Background_music,4,false);

@@ -1,17 +1,14 @@
-if visible = true
-{
+
+
+
 for (var i = 0; i < ds_list_size(obj_me.inventory); i++)
 	{
-		if (obj_me.inventory[|i].item_name = "coin2")
+		if (obj_me.inventory[|i].item_name = "lastheart")
 		{
 		 visible = true;
 		 
 		}
 	}
-}
-
-
-
 
 if (taken) visible = false;
 
@@ -21,8 +18,6 @@ mouse_check_button_pressed(1) && !taken)
 {
 	taken = true;
 	ds_list_add(obj_me.inventory,id);
-	audio_play_sound(sng_item_pickup,7,false)
-	room_goto(rm_outro)
-  }
-
-
+	audio_play_sound(sng_item_pickup,7,false); 
+	
+}
