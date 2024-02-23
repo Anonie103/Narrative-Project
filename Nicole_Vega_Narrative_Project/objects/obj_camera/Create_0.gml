@@ -11,3 +11,4 @@ y = target.y
 
 cam_x = x
 cam_y = y
+//surface_resize(application_surface,1300,900);

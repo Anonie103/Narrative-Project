@@ -3,5 +3,5 @@
 
 visible = false
 taken = false 
-item_name = "coin"
-item_name ="heart"
+//item_name = "coin"
+item_name = "heart"

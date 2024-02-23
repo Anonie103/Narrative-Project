@@ -1,4 +1,3 @@
-
 if visible = false//this code made me wanna die
 {
 for (var i = 0; i < ds_list_size(obj_me.inventory); i++)
@@ -10,5 +9,3 @@ for (var i = 0; i < ds_list_size(obj_me.inventory); i++)
 		}
 	}
 }
-
-

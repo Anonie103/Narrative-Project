@@ -1,2 +1,2 @@
 visible = true;
-item_name = "coin2"
+item_name = "glasscase"

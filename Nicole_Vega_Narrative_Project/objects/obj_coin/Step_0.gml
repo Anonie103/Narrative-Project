@@ -1,6 +1,4 @@
 
-
-
 for (var i = 0; i < ds_list_size(obj_me.inventory); i++)
 	{
 		if (obj_me.inventory[|i].item_name = "heart")
@@ -21,3 +19,4 @@ mouse_check_button_pressed(1) && !taken)
 	audio_play_sound(sng_item_pickup,7,false); 
 	
 }
+

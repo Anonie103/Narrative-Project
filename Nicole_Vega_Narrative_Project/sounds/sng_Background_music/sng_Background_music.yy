@@ -13,11 +13,11 @@
   "duration": 265.68,
   "parent": {
     "name": "Sounds",
-    "path": "folders/Rooms/Sounds.yy",
+    "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 48000,
   "soundFile": "sng_Background_music.mp3",
   "type": 1,
-  "volume": 0.05,
+  "volume": 0.09,
 }
